@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🚀 Sobre mí
+Soy un apasionado desarrollador de software con formación en **Desarrollo de Aplicaciones Web (DAW)**. Me encanta aprender nuevas tecnologías y contribuir a proyectos innovadores.
 
-<!--
-**jcasgar1701/jcasgar1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologías y herramientas
+- 💻 Lenguajes:  JavaScript, Java, Html, CSS  
+- 🛢️ Bases de datos:MySQL 
+- 🔧 Herramientas: Git, Docker, VS Code, eclipse 
+- 🖥️ Sistemas operativos: Linux, Windows   
 
-Here are some ideas to get you started:
+## 📌 Estudios que tengo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ASMR
+- DAW
+- Diseño de imagen
+- Curso de diseño 3D 
+
+## 📫 Cómo contactarme
+- 📧 Email: jonathancastillogarcia04@gmail.com
+- 💼 LinkedIn: jonathan castillo garcia
+
+
+¡Gracias por visitar mi perfil! 😊
+
