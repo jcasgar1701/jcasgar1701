@@ -9,7 +9,7 @@ Soy un apasionado desarrollador de software con formación en **Desarrollo de Ap
 
 ## 📌 Estudios que tengo
 
-- ASMR
+- Tecnico de redes
 - DAW
 - Diseño de imagen
 - Curso de diseño 3D 
